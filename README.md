@@ -1,4 +1,4 @@
-# Olá, sejam bem-vindos as minhas GATARUJAS!
+# Olá, sejam bem-vindos as minhas GARATUJAS!
 
 Aqui vou escrever todos os termos relacionados a programação e seus respectivos conceitos que provavelmente irei esquecer, então não ligue se estiver big, extra grande. Afinal tenho a memória da Dory.
 
